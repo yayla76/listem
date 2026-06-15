@@ -25,8 +25,28 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" group-title="Turkey",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="",National Geographic Abu Dhabi
-http://162.210.195.121:8080/NationalGeoAD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,CNN FAST (NO) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgno/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1661292200/1/267/150/0.jpg" group-title="NEWS + OPINION",BBC News
+https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8?ads.wurl_channel=1655&ads.wurl_name=BBCNews&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDE5MjUxMjY1NX0
+#EXTINF:-1,BBC Earth (US)
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1,MYZEN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8
+#EXTINF:-1,LoveNature
+https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="USBA3400003IP" tvg-id="USBA3400003IP" tvg-chno="3532" tvg-name="Love Nature 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20251125T030751SQUARE.png" group-title="Nature, History & Science",Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 channel-id="US3800007CR" tvg-id="US3800007CR" tvg-chno="3533" tvg-name="WildEarth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20250121T101229SQUARE.png" group-title="Nature, History & Science",WildEarth
+https://jmp2.uk/stvp-US3800007CR
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1735706314/1/267/150/0.jpg" group-title="KIDS + FAMILY",Baby Shark TV
+https://6b54194cbd92493597e24bfa46ea7106.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_BabySharkTV/playlist.m3u8?ads.wurl_channel=696&ads.wurl_name=BabySharkTV&ads.coppa=1&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzMzNDA5MjY1MH0
+#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646670641/1/267/150/0.jpg" group-title="KIDS + FAMILY",Super Simple Songs
+https://5350c8d38aec4989b3b9ec5d76dbe624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SuperSimpleSongs/playlist.m3u8?ads.wurl_channel=559&ads.wurl_name=SuperSimpleSongs&ads.coppa=1&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MjkyNzUyNTMyOH0
+#EXTINF:-1,123 Go! English (IN)
+https://amg02051-soulpublishing-amg02051c17-xiaomi-in-399.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER 
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL",TRT 1 
@@ -53,15 +73,13 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1 
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TTwc1rR/saglikch.png",SAĞLIK CHANNEL 
-https://live.euromediacenter.com/saglikchannel/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR 
 https://ciner-live.ercdn.net/htspor/htspor.m3u8  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg",EKOL SPORTS
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV [geo-blocked] 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Yt6jbg/tjk.png",TJK TV 
 http://tjktv.ercdn.net/tjktv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8 
@@ -317,3 +335,50 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 https://live.euromediacenter.com/ezgitv/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KK TV
 http://old.kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:-1,Evolution Earth (NO) Geo
+https://amg00276-aenetwork-amg00276c15-lg-no-3758.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Adventure Earth (AU)
+https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Adventure Earth (NO)
+https://autentic-adventure-earth-1-no.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Air and Space (IE)
+https://wingspan-airandspace-1-ie.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Autentic Travel (NO)
+https://autentic-autentictravel-1-no.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Autentic History (NO)
+https://autentic-autentichistory-1-no.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bondi Vet (AU)
+https://wtfn-bondivet-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Buzzr (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
+#EXTINF:-1,GO USA (NO)
+https://brandusa-gousa-1-no.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,History Time (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
+#EXTINF:-1,Homeful (NO) Geo
+https://amg00090-blueantcanada-amg00090c4-lg-no-818.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-lgno/playlist.m3u8
+#EXTINF:-1 tvg-id="XUMO_99951130" tvg-logo="https://image.xumo.com/v1/channels/channel/99951130/300x300.webp?type=color_onBlack" group-title="XUMO🇺🇸: Game Shows",Fear Factor
+https://dbrb49pjoymg4.cloudfront.net/10001/99951130/hls/master.m3u8?ads.xumo_channelId=99951130&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FearFactor&ads.csid=xumo_[PLATFORM]_FearFactor_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3542&ads.xumo_contentName=FearFactor&ads.xumo_providerId=3542&ads.xumo_providerName=FearFactor&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951130&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1,Kids TV (US)
+https://jansonmedia-kidstv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Kidspang TV (US)
+https://newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,KMSP (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
+#EXTINF:-1,KSAZ (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
+#EXTINF:-1,KTBC (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1,KTTV (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kttv-lgus/playlist.m3u8
+#EXTINF:-1,KTVU (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktvu-lgus/playlist.m3u8
+#EXTINF:-1,Wild Earth (KR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-lgkr/playlist.m3u8
+#EXTINF:-1 channel-id="US3400003HI" tvg-id="US3400003HI" tvg-chno="3670" tvg-name="ducktv" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20241119T020447SQUARE.png" group-title="Kids",ducktv
+https://jmp2.uk/stvp-US3400003HI
+#EXTINF:-1 channel-id="USBD12000255B" tvg-id="USBD12000255B" tvg-chno="2368" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20250623T224708SQUARE.png" group-title="Sports & Outdoors",FIFA+
+https://jmp2.uk/stvp-USBD12000255B
+#EXTINF:-1 tvg-id="XUMO_99991638" tvg-logo="https://image.xumo.com/v1/channels/channel/99991638/300x300.webp?type=color_onBlack" group-title="XUMO🇺🇸: Movies",DOCUMENTARY+
+https://dbrb49pjoymg4.cloudfront.net/10001/99991638/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991638&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=DocumentaryPlus&ads.csid=xumo_[PLATFORM]_DocumentaryPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Documentary,Movie,Movies,FF,Entertainment,GV,Drama,GD,DO&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Movie,Movies,FF,Entertainment,GV,Drama,GD,DO&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2715&ads.xumo_contentName=DocumentaryPlus&ads.xumo_providerId=2715&ads.xumo_providerName=DocumentaryPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991638&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
