@@ -19,18 +19,12 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/", vav tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/3.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/", nrk1
-https://nrk-live-no.akamaized.net/nrk1/m223_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/", nrk2
-https://nrk-live2-no.telenorcdn.net/nrk2/sc-gaFEEA/m223_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/", nrk3
-https://cdn0-47115-liveedge0.dna.contentdelivery.net/47115-liveedge0/nrk3/sc-gaFEEA/m223_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/", nrk4
-https://cdn0-47115-liveedge0.dna.contentdelivery.net/47115-liveedge0/nrktv4/sc-gaFEEA/m21_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/", nrksuper
-https://nrk-live2-no.telenorcdn.net/nrksuper/sc-gaFEEA/m20_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/", nrk_tegnspraak
-https://cdn0-47115-liveedge0.dna.contentdelivery.net/47115-liveedge0/nrk_tegnspraak/sc-gaFEEA/m21_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", TV Ostfold
+https://streamnorge.com:8088/hls/tvo.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", Frikanalen
+https://frikanalen.no/stream/stream_0.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", canalmotor
+https://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/", GZT
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1,MYZEN
@@ -431,10 +425,4 @@ https://jmp2.uk/stvp-US3400003HI
 https://jmp2.uk/stvp-USBD12000255B
 #EXTINF:-1 tvg-id="XUMO_99991638" tvg-logo="https://image.xumo.com/v1/channels/channel/99991638/300x300.webp?type=color_onBlack" group-title="XUMO🇺🇸: Movies",DOCUMENTARY+
 https://dbrb49pjoymg4.cloudfront.net/10001/99991638/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991638&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=DocumentaryPlus&ads.csid=xumo_[PLATFORM]_DocumentaryPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Documentary,Movie,Movies,FF,Entertainment,GV,Drama,GD,DO&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Movie,Movies,FF,Entertainment,GV,Drama,GD,DO&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2715&ads.xumo_contentName=DocumentaryPlus&ads.xumo_providerId=2715&ads.xumo_providerName=DocumentaryPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991638&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-#EXTINF:-1 tvg-logo="https://www.google.com/", canalmotor
-https://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/", Frikanalen
-https://frikanalen.no/stream/stream_0.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/", TV Ostfold
-https://streamnorge.com:8088/hls/tvo.m3u8
-
+ 
