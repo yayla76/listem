@@ -13,16 +13,36 @@ https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-b
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png",LİDER HABER
-http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE 
-https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg",TÜRK HABER 
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", ilketv
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", kanalavrupa
+https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", vav tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/3.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", nrk1
+https://nrk-live-no.akamaized.net/nrk1/m223_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", nrk2
+https://nrk-live2-no.telenorcdn.net/nrk2/sc-gaFEEA/m223_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", nrk3
+https://cdn0-47115-liveedge0.dna.contentdelivery.net/47115-liveedge0/nrk3/sc-gaFEEA/m223_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", nrk4
+https://cdn0-47115-liveedge0.dna.contentdelivery.net/47115-liveedge0/nrktv4/sc-gaFEEA/m21_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", nrksuper
+https://nrk-live2-no.telenorcdn.net/nrksuper/sc-gaFEEA/m20_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", nrk_tegnspraak
+https://cdn0-47115-liveedge0.dna.contentdelivery.net/47115-liveedge0/nrk_tegnspraak/sc-gaFEEA/m21_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", GZT
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
+#EXTINF:-1,MYZEN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/cb56341a6570648e84cb3f78d7f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da46852db80148b6f4adafb8c2360625f5c98435ee3b24aa5f9e75545d93da1ac1a1b972c58e68314c8c94db2838646cb12d424f211c9c6f6898745e0c3ab4291c771eb68224053b6c21fbdc64fa1db831b48f6130d736e99623ef184281993554c4cfd85bbd7f14cccaffb4cb26125ab139a409637c81bc2ea51622bd2cfe88f38240fadcf5e6f6dc68fc4dbac6463ef2793c898c81186f18dd25567b07f414da2efdfbbeb5eefe60084b93380fb460e34cfab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978ace98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4d984a874c68e405b0904b85c0fea04290d2adb47e7f92dae9a8f6/144/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", PBS Kids Alaska
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst_3.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" group-title="Turkey",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International
@@ -39,11 +59,8 @@ https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/play
 https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503-restreaming/bitok/eyJzdGlkIjoiZGVlMzIyNzgtMTc5Yi00MmE2LTllMmQtNTllZDg3YTNmNjg2IiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/live/eds/euronews-en/26031/euronews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6503&ads.rtv_channel_name=euronews-live-eng_uk&ads.rtv_content_id=6503&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=dee32278-179b-42a6-9e2d-59ed87a3f686&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6503&publishing_platform_id=5&tenant_identifier=rtv
 #EXTINF:0,Africanews
 #EXTVLCOPT:network-caching=1000
-https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNjdkNzUyNzQtNzI0Ni00MjI2LWI4MDUtZWQ0YTgzZTAwOGU4IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6576&ads.rtv_channel_name=africanews-eng_uk&ads.rtv_content_id=6576&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=67d75274-7246-4226-b805-ed4a83e008e8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6576&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:-1,BBC Earth (US)
+https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNjdkNzUyNzQtNzI0Ni00MjI2LWI4MDUtZWQ0YTgzZTAwOGU4IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6576&ads.rtv_channel_name=africanews-eng_uk&ads.rtv_content_id=6576&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=67d75274-7246-4226-b805-ed4a83e008e8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6576&publishing_platform_id=5&tenant_identifier=rtv#EXTINF:-1,BBC Earth (US)
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1,MYZEN
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8
 #EXTINF:-1,LoveNature
 https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="USBA3400003IP" tvg-id="USBA3400003IP" tvg-chno="3532" tvg-name="Love Nature 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20251125T030751SQUARE.png" group-title="Nature, History & Science",Love Nature 4K
@@ -68,8 +85,20 @@ https://6b54194cbd92493597e24bfa46ea7106.mediatailor.us-east-1.amazonaws.com/v1/
 https://5350c8d38aec4989b3b9ec5d76dbe624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SuperSimpleSongs/playlist.m3u8?ads.wurl_channel=559&ads.wurl_name=SuperSimpleSongs&ads.coppa=1&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MjkyNzUyNTMyOH0
 #EXTINF:-1,123 Go! English (IN)
 https://amg02051-soulpublishing-amg02051c17-xiaomi-in-399.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-xiaomiin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", haber61tv
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER 
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png",LİDER HABER
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png",24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE 
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg",TÜRK HABER 
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="8. |TR|🇹🇷 ULUSAL GENEL",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
@@ -402,4 +431,10 @@ https://jmp2.uk/stvp-US3400003HI
 https://jmp2.uk/stvp-USBD12000255B
 #EXTINF:-1 tvg-id="XUMO_99991638" tvg-logo="https://image.xumo.com/v1/channels/channel/99991638/300x300.webp?type=color_onBlack" group-title="XUMO🇺🇸: Movies",DOCUMENTARY+
 https://dbrb49pjoymg4.cloudfront.net/10001/99991638/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991638&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=DocumentaryPlus&ads.csid=xumo_[PLATFORM]_DocumentaryPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Documentary,Movie,Movies,FF,Entertainment,GV,Drama,GD,DO&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Movie,Movies,FF,Entertainment,GV,Drama,GD,DO&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2715&ads.xumo_contentName=DocumentaryPlus&ads.xumo_providerId=2715&ads.xumo_providerName=DocumentaryPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991638&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-logo="https://www.google.com/", canalmotor
+https://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", Frikanalen
+https://frikanalen.no/stream/stream_0.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/", TV Ostfold
+https://streamnorge.com:8088/hls/tvo.m3u8
 
