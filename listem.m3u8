@@ -1,10 +1,9 @@
-
-#EXTM3U
+ #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER 
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
 http://46.32.176.50/cnnturk/playlist.m3u8
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title = " TR-HABER " , CNN TURK 
+#EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/149
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
@@ -16,7 +15,7 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " SÖZCÜ TV "  tvg-name = " SZC TV "  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png "  group-title = " TR-HABER " , SZC TV 
+#EXTINF:-1  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png ", Sözcü TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/144
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
@@ -34,6 +33,12 @@ https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/", VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/3.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/282
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/286
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/258
 #EXTINF:-1 tvg-logo="https://www.google.com/", TV Ostfold
 https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/", Frikanalen
@@ -606,4 +611,69 @@ http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/6
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50841
 # EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " YAKINDA SINEMALARDA "  tvg-logo = " http://logo.multicms.info/logoslar/upcoming.jpg "  group-title = " TR-SINEMA " , YAKINDA SINEMALARDA
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/19291
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/59
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/60
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/62
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/62
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/64
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/63
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/65
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/68 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/73
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/74
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/75
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/76
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/77
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/78
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/79
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/80
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/117
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/121
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/124
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/154
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/155 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/156
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/157
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/158
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/159
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/160  
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/163
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/164
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/165
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/166
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/167
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/168
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/216
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/219
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/220
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/221
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/222
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/223
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/224
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/225
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/253 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/258
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/261  
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/264 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/270
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/271
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/274
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/282
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/286
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/291
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/295
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/297 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/298
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/301 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/304 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/306
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/308 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/311
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/314
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/315
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/317 
+ 
+ 
+ 
+
 
