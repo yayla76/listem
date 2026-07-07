@@ -463,215 +463,235 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P", SOMINEATES
 http://iptv.prosto.tv:7000/ch318/video.m3u8
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TRT 4K "  tvg-name = " TRT 4K "  tvg-logo = " http://logo.multicms.info/logoslar/trt4k.png "  group-title = " TR-ULUSAL " , TRT
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT 4K "  tvg-name = " TRT 4K "  tvg-logo = " http://logo.multicms.info/logoslar/trt4k.png "  group-title = " TR-ULUSAL " , TRT
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/51
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TRT 1 "  tvg-name = " TRT 1 "  tvg-logo = " http://logo.multicms.info/logoslar/trt1.png "  group-title = " TR-ULUSAL " , TRT 1 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT 1 "  tvg-name = " TRT 1 "  tvg-logo = " http://logo.multicms.info/logoslar/trt1.png "  group-title = " TR-ULUSAL " , TRT 1 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/337667
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TRT 1 "  tvg-name = " TRT 1 "  tvg-logo = " http://logo.multicms.info/logoslar/trt1.png "  group-title = " TR-ULUSAL " , TRT 1 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT 1 "  tvg-name = " TRT 1 "  tvg-logo = " http://logo.multicms.info/logoslar/trt1.png "  group-title = " TR-ULUSAL " , TRT 1 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/48
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " ATV "  tvg-name = " ATV "  tvg-logo = " http://logo.multicms.info/logoslar/atv.png "  group-title = " TR-ULUSAL " , ATVYEDEK46
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " ATV "  tvg-name = " ATV "  tvg-logo = " http://logo.multicms.info/logoslar/atv.png "  group-title = " TR-ULUSAL " , ATVYEDEK46
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/46
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " ATV "  tvg-name = " ATV "  tvg-logo = " http://logo.multicms.info/logoslar/atv.png "  group-title = " TR-ULUSAL " , ATVYEDEK45
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " ATV "  tvg-name = " ATV "  tvg-logo = " http://logo.multicms.info/logoslar/atv.png "  group-title = " TR-ULUSAL " , ATVYEDEK45
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/45
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TV8 "  tvg-name = " TV 8 "  tvg-logo = " http://logo.multicms.info/logoslar/tv8.png "  group-title = " TR-ULUSAL " , TV 8 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV8 "  tvg-name = " TV 8 "  tvg-logo = " http://logo.multicms.info/logoslar/tv8.png "  group-title = " TR-ULUSAL " , TV 8 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/31
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TV8 "  tvg-name = " TV 8 "  tvg-logo = " http://logo.multicms.info/logoslar/tv8.png "  group-title = " TR-ULUSAL " , TV 8 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV8 "  tvg-name = " TV 8 "  tvg-logo = " http://logo.multicms.info/logoslar/tv8.png "  group-title = " TR-ULUSAL " , TV 8 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/30
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TV'yi Göster "  tvg-name = " TV'Yİ GÖSTER "  tvg-logo = " http://logo.multicms.info/logoslar/show.png "  group-title = " TR-ULUSAL " , SHOW TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV'yi Göster "  tvg-name = " TV'Yİ GÖSTER "  tvg-logo = " http://logo.multicms.info/logoslar/show.png "  group-title = " TR-ULUSAL " , SHOW TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/42
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TV'yi Göster "  tvg-name = " TV'Yİ GÖSTER "  tvg-logo = " http://logo.multicms.info/logoslar/show.png "  group-title = " TR-ULUSAL " , SHOW TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV'yi Göster "  tvg-name = " TV'Yİ GÖSTER "  tvg-logo = " http://logo.multicms.info/logoslar/show.png "  group-title = " TR-ULUSAL " , SHOW TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/43
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Kanal D "  tvg-name = " KANAL D "  tvg-logo = " http://logo.multicms.info/logoslar/kanald.png "  group-title = " TR-ULUSAL " , KANAL D 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Kanal D "  tvg-name = " KANAL D "  tvg-logo = " http://logo.multicms.info/logoslar/kanald.png "  group-title = " TR-ULUSAL " , KANAL D 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/40
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Kanal D "  tvg-name = " KANAL D "  tvg-logo = " http://logo.multicms.info/logoslar/kanald.png "  group-title = " TR-ULUSAL " , KANAL D 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Kanal D "  tvg-name = " KANAL D "  tvg-logo = " http://logo.multicms.info/logoslar/kanald.png "  group-title = " TR-ULUSAL " , KANAL D 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/39
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Star TV "  tvg-name = " STAR TV "  tvg-logo = " http://logo.multicms.info/logoslar/star.png "  group-title = " TR-ULUSAL " , STAR TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Star TV "  tvg-name = " STAR TV "  tvg-logo = " http://logo.multicms.info/logoslar/star.png "  group-title = " TR-ULUSAL " , STAR TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/37
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Star TV "  tvg-name = " STAR TV "  tvg-logo = " http://logo.multicms.info/logoslar/star.png "  group-title = " TR-ULUSAL " , STAR TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Star TV "  tvg-name = " STAR TV "  tvg-logo = " http://logo.multicms.info/logoslar/star.png "  group-title = " TR-ULUSAL " , STAR TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/36
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NOW "  tvg-name = " Now TV "  tvg-logo = " https://logo.multicms.info/TVlogolar/NowTV.png "  group-title = " TR-ULUSAL " , Now TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NOW "  tvg-name = " Now TV "  tvg-logo = " https://logo.multicms.info/TVlogolar/NowTV.png "  group-title = " TR-ULUSAL " , Now TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/33
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NOW "  tvg-name = " Now TV "  tvg-logo = " https://logo.multicms.info/TVlogolar/NowTV.png "  group-title = " TR-ULUSAL " , Now TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NOW "  tvg-name = " Now TV "  tvg-logo = " https://logo.multicms.info/TVlogolar/NowTV.png "  group-title = " TR-ULUSAL " , Now TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/34
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " BEYAZ TV "  tvg-name = " BEYAZ TV "  tvg-logo = " http://logo.multicms.info/logoslar/beyaz.png "  group-title = " TR-ULUSAL " , BEYAZ TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " BEYAZ TV "  tvg-name = " BEYAZ TV "  tvg-logo = " http://logo.multicms.info/logoslar/beyaz.png "  group-title = " TR-ULUSAL " , BEYAZ TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/25
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " BEYAZ TV "  tvg-name = " BEYAZ TV "  tvg-logo = " http://logo.multicms.info/logoslar/beyaz.png "  group-title = " TR-ULUSAL " , BEYAZ TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " BEYAZ TV "  tvg-name = " BEYAZ TV "  tvg-logo = " http://logo.multicms.info/logoslar/beyaz.png "  group-title = " TR-ULUSAL " , BEYAZ TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/24
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " TYT TURK "  tvg-logo = " https://www.lyngsat.com/logo/tv/tt/tyt-turk-tr.png "  group-title = " TR-ULUSAL " , TYT TURK
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " TYT TURK "  tvg-logo = " https://www.lyngsat.com/logo/tv/tt/tyt-turk-tr.png "  group-title = " TR-ULUSAL " , TYT TURK
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/316447
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " CNBC-E "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CNBC-e-Logo.png/160px-CNBC-e-Logo.png "  group-title = " TR-ULUSAL " , CNBC-E
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " CNBC-E "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CNBC-e-Logo.png/160px-CNBC-e-Logo.png "  group-title = " TR-ULUSAL " , CNBC-E
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/254694
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " KANAL 7 "  tvg-name = " KANAL 7 "  tvg-logo = " http://logo.multicms.info/logoslar/kanal7.png "  group-title = " TR-ULUSAL " , KANAL 7 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KANAL 7 "  tvg-name = " KANAL 7 "  tvg-logo = " http://logo.multicms.info/logoslar/kanal7.png "  group-title = " TR-ULUSAL " , KANAL 7 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/22
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " KANAL 7 "  tvg-name = " KANAL 7 "  tvg-logo = " http://logo.multicms.info/logoslar/kanal7.png "  group-title = " TR-ULUSAL " , KANAL 7 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KANAL 7 "  tvg-name = " KANAL 7 "  tvg-logo = " http://logo.multicms.info/logoslar/kanal7.png "  group-title = " TR-ULUSAL " , KANAL 7 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50845
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Teve2 "  tvg-name = " TEVE 2 "  tvg-logo = " http://logo.multicms.info/logoslar/teve2.png "  group-title = " TR-ULUSAL " , TEVE 2 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Teve2 "  tvg-name = " TEVE 2 "  tvg-logo = " http://logo.multicms.info/logoslar/teve2.png "  group-title = " TR-ULUSAL " , TEVE 2 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/19
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Teve2 "  tvg-name = " TEVE 2 "  tvg-logo = " http://logo.multicms.info/logoslar/teve2.png "  group-title = " TR-ULUSAL " , TEVE 2 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Teve2 "  tvg-name = " TEVE 2 "  tvg-logo = " http://logo.multicms.info/logoslar/teve2.png "  group-title = " TR-ULUSAL " , TEVE 2 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/18
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " A2 "  tvg-name = " A2 "  tvg-logo = " http://logo.multicms.info/logoslar/a2.png "  group-title = " TR-ULUSAL " , A2 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " A2 "  tvg-name = " A2 "  tvg-logo = " http://logo.multicms.info/logoslar/a2.png "  group-title = " TR-ULUSAL " , A2 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/9
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " 360 "  tvg-name = " 360 TV "  tvg-logo = " http://logo.multicms.info/logoslar/360.png "  group-title = " TR-ULUSAL " , 360 TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " 360 "  tvg-name = " 360 TV "  tvg-logo = " http://logo.multicms.info/logoslar/360.png "  group-title = " TR-ULUSAL " , 360 TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/16
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TLC "  tvg-name = " TLC "  tvg-logo = " http://logo.multicms.info/logoslar/tlc.png "  group-title = " TR-ULUSAL " , TLC 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TLC "  tvg-name = " TLC "  tvg-logo = " http://logo.multicms.info/logoslar/tlc.png "  group-title = " TR-ULUSAL " , TLC 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/14
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Dizi Smart Max "  tvg-name = " Dizismart Max "  tvg-logo = " http://logo.multicms.info/logoslar/dizismartmax.png "  group-title = " TR-DIZI " , Dizismart Max
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Dizi Smart Max "  tvg-name = " Dizismart Max "  tvg-logo = " http://logo.multicms.info/logoslar/dizismartmax.png "  group-title = " TR-DIZI " , Dizismart Max
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/60119
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Epic Drama "  tvg-name = " EPIC DRAMA "  tvg-logo = " http://logo.multicms.info/logoslar/Epicdrama.jpg "  group-title = " TR-DIZI " , EPIC DRAMA
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Epic Drama "  tvg-name = " EPIC DRAMA "  tvg-logo = " http://logo.multicms.info/logoslar/Epicdrama.jpg "  group-title = " TR-DIZI " , EPIC DRAMA
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50426
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " FX "  tvg-name = " FX "  tvg-logo = " http://logo.multicms.info/logoslar/fx.png "  group-title = " TR-DIZI " , FX 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " FX "  tvg-name = " FX "  tvg-logo = " http://logo.multicms.info/logoslar/fx.png "  group-title = " TR-DIZI " , FX 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/12
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Flash Tv "  tvg-name = " FLASH TV "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/0/02/Flash-tv-yeni-logo.jpg "  group-title = " TR-ULUSAL " , FLASH TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Flash Tv "  tvg-name = " FLASH TV "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/0/02/Flash-tv-yeni-logo.jpg "  group-title = " TR-ULUSAL " , FLASH TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/99597
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TRT 2 "  tvg-name = " TRT 2 "  tvg-logo = " http://logo.multicms.info/logoslar/trt2.jpg "  group-title = " TR-ULUSAL " , TRT 2 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT 2 "  tvg-name = " TRT 2 "  tvg-logo = " http://logo.multicms.info/logoslar/trt2.jpg "  group-title = " TR-ULUSAL " , TRT 2 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/40980
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " BeIN H&E "  tvg-logo = " "  group-title = " TR-ULUSAL " , BeIN H&E
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " BeIN H&E "  tvg-logo = " "  group-title = " TR-ULUSAL " , BeIN H&E
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/337662
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " BI TV "  tvg-logo = " "  group-title = " TR-SPOR " , BI TV
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " BI TV "  tvg-logo = " "  group-title = " TR-SPOR " , BI TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/314376
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " TRT GENCTV "  tvg-logo = " https://logo.multicms.info/TVlogolar/trtGencTV.jpg "  group-title = " TR-ULUSAL " , TRT GENCTV
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " TRT GENCTV "  tvg-logo = " https://logo.multicms.info/TVlogolar/trtGencTV.jpg "  group-title = " TR-ULUSAL " , TRT GENCTV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/346536
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " beIN SERIES 1 "  tvg-name = " beIN Series 1 "  tvg-logo = " http://logo.multicms.info/logoslar/beinseries.jpg "  group-title = " TR-DIZI " , beIN Series 1
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " beIN SERIES 1 "  tvg-name = " beIN Series 1 "  tvg-logo = " http://logo.multicms.info/logoslar/beinseries.jpg "  group-title = " TR-DIZI " , beIN Series 1
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/222
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " beIN SERIES 2 "  tvg-name = " beIN Series 2 "  tvg-logo = " http://logo.multicms.info/logoslar/beinseries.jpg "  group-title = " TR-DIZI " , beIN Series 2
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " beIN SERIES 2 "  tvg-name = " beIN Series 2 "  tvg-logo = " http://logo.multicms.info/logoslar/beinseries.jpg "  group-title = " TR-DIZI " , beIN Series 2
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/220
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " beIN Series 3 "  tvg-logo = " http://logo.multicms.info/logoslar/beinseries.jpg "  group-title = " TR-DIZI " , beIN Series 3
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " beIN Series 3 "  tvg-logo = " http://logo.multicms.info/logoslar/beinseries.jpg "  group-title = " TR-DIZI " , beIN Series 3
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/219
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " beIN Series 4 "  tvg-logo = " http://logo.multicms.info/TVlogolar/beinseries.jpg "  group-title = " TR-DIZI " , beIN Series 4
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " beIN Series 4 "  tvg-logo = " http://logo.multicms.info/TVlogolar/beinseries.jpg "  group-title = " TR-DIZI " , beIN Series 4
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/103134
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Dizi Smart Premium "  tvg-name = " Dizismart Premium "  tvg-logo = " http://logo.multicms.info/logoslar/dizismartpremium.jpg "  group-title = " TR-DIZI " , Dizismart Premium 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Dizi Smart Premium "  tvg-name = " Dizismart Premium "  tvg-logo = " http://logo.multicms.info/logoslar/dizismartpremium.jpg "  group-title = " TR-DIZI " , Dizismart Premium 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/218
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " A Haber "  tvg-name = " A HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/ahaber.png "  group-title = " TR-HABER " , A HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " A Haber "  tvg-name = " A HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/ahaber.png "  group-title = " TR-HABER " , A HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/139
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " A Haber "  tvg-name = " A HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/ahaber.png "  group-title = " TR-HABER " , A HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " A Haber "  tvg-name = " A HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/ahaber.png "  group-title = " TR-HABER " , A HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/140
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title = " TR-HABER " , CNN TURK 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title = " TR-HABER " , CNN TURK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/149
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title = " TR-HABER " , CNN TURK 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title = " TR-HABER " , CNN TURK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/150
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " HABERTURK "  tvg-name = " HABER TURK "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg "  group-title = " TR-HABER " , HABER TURK 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABERTURK "  tvg-name = " HABER TURK "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg "  group-title = " TR-HABER " , HABER TURK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/147
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " HABERTURK "  tvg-name = " HABER TURK "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg "  group-title = " TR-HABER " , HABER TURK 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABERTURK "  tvg-name = " HABER TURK "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg "  group-title = " TR-HABER " , HABER TURK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/148
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NTV "  tvg-name = " NTV "  tvg-logo = " http://logo.multicms.info/tvlogo/ntv.png "  group-title = " TR-HABER " , NTV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NTV "  tvg-name = " NTV "  tvg-logo = " http://logo.multicms.info/tvlogo/ntv.png "  group-title = " TR-HABER " , NTV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/151
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NTV "  tvg-name = " NTV "  tvg-logo = " http://logo.multicms.info/tvlogo/ntv.png "  group-title = " TR-HABER " , NTV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NTV "  tvg-name = " NTV "  tvg-logo = " http://logo.multicms.info/tvlogo/ntv.png "  group-title = " TR-HABER " , NTV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/152
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " HABER GLOBAL "  tvg-name = " HABER GLOBAL "  tvg-logo = " http://logo.multicms.info/logoslar/haberglobal.png "  group-title = " TR-HABER " , HABER GLOBAL 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABER GLOBAL "  tvg-name = " HABER GLOBAL "  tvg-logo = " http://logo.multicms.info/logoslar/haberglobal.png "  group-title = " TR-HABER " , HABER GLOBAL 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/40495
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " HABER GLOBAL "  tvg-name = " HABER GLOBAL "  tvg-logo = " http://logo.multicms.info/logoslar/haberglobal.png "  group-title = " TR-HABER " , HABER GLOBAL 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABER GLOBAL "  tvg-name = " HABER GLOBAL "  tvg-logo = " http://logo.multicms.info/logoslar/haberglobal.png "  group-title = " TR-HABER " , HABER GLOBAL 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232359
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TRT Haber "  tvg-name = " TRT HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/trthaber.png "  group-title = " TR-HABER " , TRT HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT Haber "  tvg-name = " TRT HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/trthaber.png "  group-title = " TR-HABER " , TRT HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/145
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TRT Haber "  tvg-name = " TRT HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/trthaber.png "  group-title = " TR-HABER " , TRT HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT Haber "  tvg-name = " TRT HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/trthaber.png "  group-title = " TR-HABER " , TRT HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/146
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Ülke TV "  tvg-name = " ULKE TV "  tvg-logo = " http://logo.multicms.info/tvlogo/ulke.png "  group-title = " TR-HABER " , ULKE TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Ülke TV "  tvg-name = " ULKE TV "  tvg-logo = " http://logo.multicms.info/tvlogo/ulke.png "  group-title = " TR-HABER " , ULKE TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/132
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Ülke TV "  tvg-name = " ULKE TV "  tvg-logo = " http://logo.multicms.info/tvlogo/ulke.png "  group-title = " TR-HABER " , ULKE TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Ülke TV "  tvg-name = " ULKE TV "  tvg-logo = " http://logo.multicms.info/tvlogo/ulke.png "  group-title = " TR-HABER " , ULKE TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/133
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " KRT TV "  tvg -name = " KRT TV "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20210903112243%21KRT_TV_logosu.png "  group-title = " TR-HABER " , KRT TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KRT TV "  tvg -name = " KRT TV "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20210903112243%21KRT_TV_logosu.png "  group-title = " TR-HABER " , KRT TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/15281
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " KRT TV "  tvg -name = " KRT TV "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20210903112243%21KRT_TV_logosu.png "  group-title = " TR-HABER " , KRT TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KRT TV "  tvg -name = " KRT TV "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20210903112243%21KRT_TV_logosu.png "  group-title = " TR-HABER " , KRT TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232358
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Halk TV "  tvg-name = " HALK TV "  tvg-logo = " http://logo.multicms.info/logoslar/halk.png "  group-title = " TR-HABER " , HALK TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Halk TV "  tvg-name = " HALK TV "  tvg-logo = " http://logo.multicms.info/logoslar/halk.png "  group-title = " TR-HABER " , HALK TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/5
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " Halk TV "  tvg-name = " HALK TV "  tvg-logo = " http://logo.multicms.info/logoslar/halk.png "  group-title = " TR-HABER " , HALK TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Halk TV "  tvg-name = " HALK TV "  tvg-logo = " http://logo.multicms.info/logoslar/halk.png "  group-title = " TR-HABER " , HALK TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232357
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title = " TR-HABER " , TV 100 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title = " TR-HABER " , TV 100 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50939
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title = " TR-HABER " , TV 100 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title = " TR-HABER " , TV 100 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232356
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " SÖZCÜ TV "  tvg-name = " SZC TV "  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png "  group-title = " TR-HABER " , SZC TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " SÖZCÜ TV "  tvg-name = " SZC TV "  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png "  group-title = " TR-HABER " , SZC TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/144
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " SÖZCÜ TV "  tvg-name = " SZC TV "  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png "  group-title = " TR-HABER " , SZC TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " SÖZCÜ TV "  tvg-name = " SZC TV "  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png "  group-title = " TR-HABER " , SZC TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232355
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " KANAL 24 "  tvg-name = " 24 TV "  tvg-logo = " http://logo.multicms.info/logoslar/kanal24.png "  group-title = " TR-HABER " , 24 TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KANAL 24 "  tvg-name = " 24 TV "  tvg-logo = " http://logo.multicms.info/logoslar/kanal24.png "  group-title = " TR-HABER " , 24 TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/142
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " KANAL 24 "  tvg-name = " 24 TV "  tvg-logo = " http://logo.multicms.info/logoslar/kanal24.png "  group-title = " TR-HABER " , 24 TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KANAL 24 "  tvg-name = " 24 TV "  tvg-logo = " http://logo.multicms.info/logoslar/kanal24.png "  group-title = " TR-HABER " , 24 TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232354
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TVNET "  tvg-name = " TVNET "  tvg-logo = " http://logo.multicms.info/tvlogo/tvnet.png "  group-title = " TR-HABER " , TVNET 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TVNET "  tvg-name = " TVNET "  tvg-logo = " http://logo.multicms.info/tvlogo/tvnet.png "  group-title = " TR-HABER " , TVNET 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/54676
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " EKOL TV "  tvg-logo = " https://logo.multicms.info/TVlogolar/ekoltv.jpg "  group-title = " TR-HABER " , EKOL TV
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " EKOL TV "  tvg-logo = " https://logo.multicms.info/TVlogolar/ekoltv.jpg "  group-title = " TR-HABER " , EKOL TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/255109
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TVNET "  tvg-name = " TVNET "  tvg-logo = " http://logo.multicms.info/tvlogo/tvnet.png "  group-title = " TR-HABER " , TVNET 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TVNET "  tvg-name = " TVNET "  tvg-logo = " http://logo.multicms.info/tvlogo/tvnet.png "  group-title = " TR-HABER " , TVNET 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232353
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " BLOOMBERG "  tvg-name = " BLOOMBERGHT "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png "  group-title = " TR-HABER " , BLOOMBERGHT 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " BLOOMBERG "  tvg-name = " BLOOMBERGHT "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png "  group-title = " TR-HABER " , BLOOMBERGHT 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50842
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " BLOOMBERG "  tvg-name = " BLOOMBERGHT "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png "  group-title = " TR-HABER " , BLOOMBERGHT 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " BLOOMBERG "  tvg-name = " BLOOMBERGHT "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png "  group-title = " TR-HABER " , BLOOMBERGHT 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/137
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TGRT HABER "  tvg-name = " TGRT HABER "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png "  group-title = " TR-HABER " , TGRT HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TGRT HABER "  tvg-name = " TGRT HABER "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png "  group-title = " TR-HABER " , TGRT HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232352
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TGRT HABER "  tvg-name = " TGRT HABER "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png "  group-title = " TR-HABER " , TGRT HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TGRT HABER "  tvg-name = " TGRT HABER "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png "  group-title = " TR-HABER " , TGRT HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/222870
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " TELE 1 "  tvg-name = " TELE 1 "  tvg-logo = " http://logo.multicms.info/tvlogo/tele1.png "  group-title = " TR-HABER " , TELE 1 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TELE 1 "  tvg-name = " TELE 1 "  tvg-logo = " http://logo.multicms.info/tvlogo/tele1.png "  group-title = " TR-HABER " , TELE 1 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/121
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " ULUSAL KANAL "  tvg-name = " ULUSAL KANAL "  tvg-logo = " http://logo.multicms.info/tvlogo/ulusal.png "  group-title = " TR-HABER " , ULUSAL KANAL
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " ULUSAL KANAL "  tvg-name = " ULUSAL KANAL "  tvg-logo = " http://logo.multicms.info/tvlogo/ulusal.png "  group-title = " TR-HABER " , ULUSAL KANAL
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/6
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " A Para "  tvg-name = " APARA "  tvg-logo = " http://logo.multicms.info/logoslar/apara.jpg "  group-title = " TR-ULUSAL " , APARA 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " A Para "  tvg-name = " APARA "  tvg-logo = " http://logo.multicms.info/logoslar/apara.jpg "  group-title = " TR-ULUSAL " , APARA 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50841
-# EXTINF : 0  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " YAKINDA SINEMALARDA "  tvg-logo = " http://logo.multicms.info/logoslar/upcoming.jpg "  group-title = " TR-SINEMA " , YAKINDA SINEMALARDA
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " YAKINDA SINEMALARDA "  tvg-logo = " http://logo.multicms.info/logoslar/upcoming.jpg "  group-title = " TR-SINEMA " , YAKINDA SINEMALARDA
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/19291
+#EXTINF:-1 tvg-logo = " ", SPORT TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/59
+#EXTINF:-1 tvg-logo = " ", A SPOR
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/60
+#EXTINF:-1 tvg-logo = " ", TRT SPOR
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/62
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/62
+#EXTINF:-1 tvg-logo = " ", EURO SPORT2
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/64
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/63
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/65
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/68 
+#EXTINF:-1 tvg-logo = " ", EURO SPORT1
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/65 
+#EXTINF:-1 tvg-logo = " ", TSPORT3
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/73
+#EXTINF:-1 tvg-logo = " ", TSPORT2
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/74
+#EXTINF:-1 tvg-logo = " ", TSPORT1
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/75
+#EXTINF:-1 tvg-logo = " ", BEINSPORTSHABER  
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/76
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/77
+#EXTINF:-1 tvg-logo = " ", BEINSPORTS 2
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/78
+#EXTINF:-1 tvg-logo = " ", BEINSPORTS 1
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/79
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/80
+#EXTINF:-1 tvg-logo = " ", AKIT TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/117
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/121
+#EXTINF:-1 tvg-logo = " ", YOL TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/124
+#EXTINF:-1 tvg-logo = " ", SINEMA
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/154
+#EXTINF:-1 tvg-logo = " ", SINEMA
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/155 
+#EXTINF:-1 tvg-logo = " ", SINEMA
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/156
+#EXTINF:-1 tvg-logo = " ", SINEMA
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/157
+#EXTINF:-1 tvg-logo = " ", SINEMA
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/158
+#EXTINF:-1 tvg-logo = " ", SINEMA
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/159
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/160  
+#EXTINF:-1 tvg-logo = " ", SINEMA
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/160 
+#EXTINF:-1 tvg-logo = " ", SINEMATV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/163
+#EXTINF:-1 tvg-logo = " ", SINEMA1001
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/164
+#EXTINF:-1 tvg-logo = " ", SINEMAYERLI
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/165
+#EXTINF:-1 tvg-logo = " ", SINEMAAILE
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/166
+#EXTINF:-1 tvg-logo = " ", SINEMAAKSİYON
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/167
+#EXTINF:-1 tvg-logo = " ", SINEMAKOMEDI
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/168
+#EXTINF:-1 tvg-logo = " ", MOVIESMARTCLASSIC
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/216
+#EXTINF:-1 tvg-logo = " ", BEINSERIES3
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/219
+#EXTINF:-1 tvg-logo = " ", BEINSERIES2
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/220
+#EXTINF:-1 tvg-logo = " ", BEINSERIES1
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/221
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/222
+#EXTINF:-1 tvg-logo = " ", BEINSERIES
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/223
+#EXTINF:-1 tvg-logo = " ", BEINMOVIESTURK
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/224
+#EXTINF:-1 tvg-logo = " ", BEINMOVIESTURKSTAR
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/225
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/253 
+#EXTINF:-1 tvg-logo = " ", BEINMOVIESPRIMIERE
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/253
+#EXTINF:-1 tvg-logo = " ", BBC EARTH
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/258
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/261  
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/264 
+#EXTINF:-1 tvg-logo = " ", BEINIZ
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/270
+#EXTINF:-1 tvg-logo = " ", BEINGURME
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/271
+#EXTINF:-1 tvg-logo = " ", DMAX
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/274
+#EXTINF:-1 tvg-logo = " ", NATIONAL GEOGRAPHIC WILD
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/282
+#EXTINF:-1 tvg-logo = " ", NATIONAL GEOGRAPHIC
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/286
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/291
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/295
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/297 
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/298
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/301 
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/304 
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/306
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/308 
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/311
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/314
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/315
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/317 
+
  
  
  
