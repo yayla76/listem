@@ -17,6 +17,8 @@ https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-b
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png " group-title="HABER", Sözcü TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/144
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " A Haber "  tvg-name = " A HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/ahaber.png "  group-title = " TR-HABER " , A HABER 
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/139
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/" group-title="HABER", ilketv
