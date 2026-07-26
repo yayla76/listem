@@ -3,13 +3,13 @@
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
 http://46.32.176.50/cnnturk/playlist.m3u8
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title = " TR-HABER " ,CNN TURK 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title="HABER" ,CNN TURK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/150
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100  
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title="HABER",TV 100 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title="HABER" ,TV 100 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50939
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
@@ -94,8 +94,6 @@ https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/
 https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8
 #EXTINF:-1 tvg-id="Atlas.us@SD" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" group-title="Belgesel",Atlas 
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
-#EXTINF:-1 tvg-id="BelgeselPlus.us@US" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Belgesel",Belgesel+  
-https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-BelgeselPLUS-BelgeselPLUS/mt/Belgeselplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" group-title="HABER",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgASYpz7V6NIKM1OggKywL2HE_AIrOlbfbfQ4w9Ikd4Ksn_hrflP51xX8wZwExwJDKd4AUZRXpc4uVGykKTzotHaGdgBfFKGzdL8tS8oTDP8pV0EAcUM6gL1ck_jaoe5v1wSVH9xRKGQKDUGwjMrBhSA9saYSFId0M5gfAsXqchr-IFs9I/s1600/aj%20eng.webp" group-title="HABER",ALJAZEERA EN
@@ -106,15 +104,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1661292200/1/267/150/0.jpg" group-title="HABER",BBC News
 https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8?ads.wurl_channel=1655&ads.wurl_name=BBCNews&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDE5MjUxMjY1NX0
-#EXTINF:0 group-title="HABER" ,NewsWorld
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,NewsWorld
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8?ads_amagi_channel_id=867&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5635&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=76db1986-0fb9-46cc-a1f8-c097c7806cf6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:0 group-title="HABER" ,Euronews LIVE
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Euronews LIVE
 https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503-restreaming/bitok/eyJzdGlkIjoiZGVlMzIyNzgtMTc5Yi00MmE2LTllMmQtNTllZDg3YTNmNjg2IiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/live/eds/euronews-en/26031/euronews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6503&ads.rtv_channel_name=euronews-live-eng_uk&ads.rtv_content_id=6503&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=dee32278-179b-42a6-9e2d-59ed87a3f686&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6503&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:0 group-title="HABER" ,Africanews
-#EXTVLCOPT:network-caching=1000
-https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNjdkNzUyNzQtNzI0Ni00MjI2LWI4MDUtZWQ0YTgzZTAwOGU4IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6576&ads.rtv_channel_name=africanews-eng_uk&ads.rtv_content_id=6576&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=67d75274-7246-4226-b805-ed4a83e008e8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6576&publishing_platform_id=5&tenant_identifier=rtv#EXTINF:-1,BBC Earth (US)
+#EXTINF:-1,Africanews
+https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNjdkNzUyNzQtNzI0Ni00MjI2LWI4MDUtZWQ0YTgzZTAwOGU4IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6576&ads.rtv_channel_name=africanews-eng_uk&ads.rtv_content_id=6576&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=67d75274-7246-4226-b805-ed4a83e008e8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6576&publishing_platform_id=5&tenant_identifier=rtv
+#EXTINF:-1,BBC Earth (US)
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1,LoveNature
 https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
@@ -122,17 +118,13 @@ https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
 https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 channel-id="US3800007CR" tvg-id="US3800007CR" tvg-chno="3533" tvg-name="WildEarth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20250121T101229SQUARE.png" group-title="Belgesel",WildEarth
 https://jmp2.uk/stvp-US3800007CR
-#EXTINF:54,Nature Time
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Nature Time
 https://amg01576-amg01576c3-rakuten-gb-10666.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01576-blueantmediacanadafast-naturetimeemeaenglish-rakutengb/playlist.m3u8?ads_amagi_channel_id=1087&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=Belgesel%2Canimals%2Chistory%2Coutdoors&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=7&ads_rtv_content_id=7395&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=8a249612-57d4-4f61-9fd8-6f12efee3903&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:0,Terra Mater WILD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Terra Mater WILD
 https://amg01775-amg01775c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c1-amgplt0165/playlist.m3u8?ads_amagi_channel_id=1105&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=Belgesel%2Canimals%2Coutdoors&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=7&ads_rtv_content_id=7706&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=f9cb4d17-5327-4323-8f09-0124760e612c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:0,Real Wild
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Real Wild
 https://lds-realwild-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-realwild-rakuten/CDN/master.m3u8?ads_amagi_channel_id=728&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=animals%2Coutdoors&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=0&ads_rtv_content_id=2914&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=a4fb8ae6-ac1b-4eb2-b4d5-f64048b487de&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:0,Travelxp
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Travelxp
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=hobbies%2Coutdoors&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=0&ads.rtv_content_id=221&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=31dc591f-1f13-4f7d-8c5b-599e520a59da&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=473
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
@@ -140,7 +132,7 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 https://live.euromediacenter.com/ezgitv/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="",OLAYTÜRK TV
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/" group-title="HABER",haber61tv
+#EXTINF:-1 tvg-logo="https://www.google.com/",haber61tv
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",ALANYA POSTA TV 
 https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8 
@@ -238,7 +230,7 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="HABER",360
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png",TV 4 
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -460,8 +452,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-lgk
 https://jmp2.uk/stvp-US3400003HI
 #EXTINF:-1 channel-id="USBD12000255B" tvg-id="USBD12000255B" tvg-chno="2368" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20250623T224708SQUARE.png" group-title="Sports & Outdoors",FIFA+
 https://jmp2.uk/stvp-USBD12000255B
-#EXTINF:-1 tvg-id="XUMO_99991638" tvg-logo="https://image.xumo.com/v1/channels/channel/99991638/300x300.webp?type=color_onBlack" group-title="XUMO🇺🇸: Movies",Belgesel+
-https://dbrb49pjoymg4.cloudfront.net/10001/99991638/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991638&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=BelgeselPlus&ads.csid=xumo_[PLATFORM]_BelgeselPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Belgesel,Movie,Movies,FF,Entertainment,GV,Drama,GD,DO&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Belgesel,Movie,Movies,FF,Entertainment,GV,Drama,GD,DO&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2715&ads.xumo_contentName=BelgeselPlus&ads.xumo_providerId=2715&ads.xumo_providerName=BelgeselPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991638&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 tvg-id="LovePets.ca@US" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" group-title="Belgesel",Love Pets  
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz@SD" tvg-logo="https://i.imgur.com/iTTd3Ir.png" group-title="Belgesel",O'zbekiston Tarixi (1080p)
@@ -470,8 +460,6 @@ https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Belgesel",Discovering China 
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNBelgesel.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Belgesel",CGTN Belgesel 
-https://amg00405-rakutentv-cgtnBelgesel-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png",SAT 7 TÜRK
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P", SOMINEATES
@@ -480,7 +468,7 @@ http://iptv.prosto.tv:7000/ch318/video.m3u8
 http://iptv.prosto.tv:7000/ch331/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" group-title="0.KIL-RELAX",şömine2
 https://cdn.tecostream.xyz/Somine_TV.m3u8
-#EXTINF:-1 tvg-id="Pejzaztv.ru" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg" group-title="RAHATLA",şömine3
+#EXTINF:-1 tvg-id="Pejzaztv.ru" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg" group-title="RAHATLA",Relax
 http://iptv.prosto.tv:7000/ch343/video.m3u8
 #EXTINF:-1 tvg-id="Yaztv.ru" tvg-logo="" group-title="RAHATLA",YAZ
 https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist.m3u8
@@ -628,71 +616,71 @@ http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/219
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/103134
 #EXTINF:-1  user-agent = " Firefox "  tvg-id = " Dizi Smart Premium "  tvg-name = " Dizismart Premium "  tvg-logo = " http://logo.multicms.info/logoslar/dizismartpremium.jpg "  group-title = " TR-DIZI " , Dizismart Premium 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/218
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " A Haber "  tvg-name = " A HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/ahaber.png "  group-title = " TR-HABER " , A HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " A Haber "  tvg-name = " A HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/ahaber.png "  group-title="HABER" , A HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/139
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " A Haber "  tvg-name = " A HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/ahaber.png "  group-title = " TR-HABER " , A HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " A Haber "  tvg-name = " A HABER "  tvg-logo = " http://logo.multicms.info/tvlogo/ahaber.png "  group-title="HABER" , A HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/140
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title = " TR-HABER " , CNN TURK 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title="HABER" , CNN TURK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/149
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title = " TR-HABER " , CNN TURK 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo = " http://logo.multicms.info/tvlogo/cnnturk.png "  group-title="HABER" , CNN TURK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/150
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABERTURK "  tvg-name = " HABER TURK "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg "  group-title = " TR-HABER " , HABER TURK 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABERTURK "  tvg-name = " HABER TURK "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg "  group-title="HABER" , HABER TURK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/147
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABERTURK "  tvg-name = " HABER TURK "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg "  group-title = " TR-HABER " , HABER TURK 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABERTURK "  tvg-name = " HABER TURK "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg "  group-title="HABER" , HABER TURK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/148
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NTV "  tvg-name = " NTV "  tvg-logo = " http://logo.multicms.info/tvlogo/ntv.png "  group-title = " TR-HABER " , NTV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NTV "  tvg-name = " NTV "  tvg-logo = " http://logo.multicms.info/tvlogo/ntv.png "  group-title="HABER" , NTV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/151
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NTV "  tvg-name = " NTV "  tvg-logo = " http://logo.multicms.info/tvlogo/ntv.png "  group-title = " TR-HABER " , NTV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NTV "  tvg-name = " NTV "  tvg-logo = " http://logo.multicms.info/tvlogo/ntv.png "  group-title="HABER" , NTV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/152
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABER GLOBAL "  tvg-name = " HABER GLOBAL "  tvg-logo = " http://logo.multicms.info/logoslar/haberglobal.png "  group-title = " TR-HABER " , HABER GLOBAL 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABER GLOBAL "  tvg-name = " HABER GLOBAL "  tvg-logo = " http://logo.multicms.info/logoslar/haberglobal.png "  group-title="HABER" , HABER GLOBAL 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/40495
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABER GLOBAL "  tvg-name = " HABER GLOBAL "  tvg-logo = " http://logo.multicms.info/logoslar/haberglobal.png "  group-title = " TR-HABER " , HABER GLOBAL 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " HABER GLOBAL "  tvg-name = " HABER GLOBAL "  tvg-logo = " http://logo.multicms.info/logoslar/haberglobal.png "  group-title="HABER" , HABER GLOBAL 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232359
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT Haber "  tvg-name = " TRT HABER "  tvg-logo = " https://logo.multicms.info/logoslar/trt_haber.png "  group-title = " TR-HABER " , TRT HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT Haber "  tvg-name = " TRT HABER "  tvg-logo = " https://logo.multicms.info/logoslar/trt_haber.png "  group-title="HABER" , TRT HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/145
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT Haber "  tvg-name = " TRT HABER "  tvg-logo = " https://logo.multicms.info/logoslar/trt_haber.png "  group-title = " TR-HABER " , TRT HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TRT Haber "  tvg-name = " TRT HABER "  tvg-logo = " https://logo.multicms.info/logoslar/trt_haber.png "  group-title="HABER" , TRT HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/146
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Ülke TV "  tvg-name = " ULKE TV "  tvg-logo = " http://logo.multicms.info/tvlogo/ulke.png "  group-title = " TR-HABER " , ULKE TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Ülke TV "  tvg-name = " ULKE TV "  tvg-logo = " http://logo.multicms.info/tvlogo/ulke.png "  group-title="HABER" , ULKE TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/132
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Ülke TV "  tvg-name = " ULKE TV "  tvg-logo = " http://logo.multicms.info/tvlogo/ulke.png "  group-title = " TR-HABER " , ULKE TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Ülke TV "  tvg-name = " ULKE TV "  tvg-logo = " http://logo.multicms.info/tvlogo/ulke.png "  group-title="HABER" , ULKE TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/133
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KRT TV "  tvg -name = " KRT TV "  tvg-logo = " https://logo.multicms.info/logoslar/krt_tr.png "  group-title = " TR-HABER " , KRT TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KRT TV "  tvg -name = " KRT TV "  tvg-logo = " https://logo.multicms.info/logoslar/krt_tr.png "  group-title="HABER" , KRT TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/15281
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KRT TV "  tvg -name = " KRT TV "  tvg-logo = " https://logo.multicms.info/logoslar/krt_tr.png "  group-title = " TR-HABER " , KRT TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KRT TV "  tvg -name = " KRT TV "  tvg-logo = " https://logo.multicms.info/logoslar/krt_tr.png "  group-title="HABER" , KRT TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232358
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Halk TV "  tvg-name = " HALK TV "  tvg-logo = " http://logo.multicms.info/logoslar/halk.png "  group-title = " TR-HABER " , HALK TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Halk TV "  tvg-name = " HALK TV "  tvg-logo = " http://logo.multicms.info/logoslar/halk.png "  group-title="HABER" , HALK TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/5
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Halk TV "  tvg-name = " HALK TV "  tvg-logo = " http://logo.multicms.info/logoslar/halk.png "  group-title = " TR-HABER " , HALK TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " Halk TV "  tvg-name = " HALK TV "  tvg-logo = " http://logo.multicms.info/logoslar/halk.png "  group-title="HABER" , HALK TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232357
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title = " TR-HABER " , TV 100 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title="HABER" , TV 100 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50939
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title = " TR-HABER " , TV 100 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title="HABER" , TV 100 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232356
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " SÖZCÜ TV "  tvg-name = " SZC TV "  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png "  group-title = " TR-HABER " , SZC TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " SÖZCÜ TV "  tvg-name = " SZC TV "  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png "  group-title="HABER" , SZC TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/144
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " SÖZCÜ TV "  tvg-name = " SZC TV "  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png "  group-title = " TR-HABER " , SZC TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " SÖZCÜ TV "  tvg-name = " SZC TV "  tvg-logo = " https://i.hizliresim.com/ljzg5ez.png "  group-title="HABER" , SZC TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232355
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KANAL 24 "  tvg-name = " 24 TV "  tvg-logo = " http://logo.multicms.info/logoslar/kanal24.png "  group-title = " TR-HABER " , 24 TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KANAL 24 "  tvg-name = " 24 TV "  tvg-logo = " http://logo.multicms.info/logoslar/kanal24.png "  group-title="HABER" , 24 TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/142
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KANAL 24 "  tvg-name = " 24 TV "  tvg-logo = " http://logo.multicms.info/logoslar/kanal24.png "  group-title = " TR-HABER " , 24 TV 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " KANAL 24 "  tvg-name = " 24 TV "  tvg-logo = " http://logo.multicms.info/logoslar/kanal24.png "  group-title="HABER" , 24 TV 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232354
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TVNET "  tvg-name = " TVNET "  tvg-logo = " http://logo.multicms.info/tvlogo/tvnet.png "  group-title = " TR-HABER " , TVNET 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TVNET "  tvg-name = " TVNET "  tvg-logo = " http://logo.multicms.info/tvlogo/tvnet.png "  group-title="HABER" , TVNET 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/54676
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " EKOL TV "  tvg-logo = " https://logo.multicms.info/TVlogolar/ekoltv.jpg "  group-title = " TR-HABER " , EKOL TV
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " NULL "  tvg-name = " EKOL TV "  tvg-logo = " https://logo.multicms.info/TVlogolar/ekoltv.jpg "  group-title="HABER" , EKOL TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/255109
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TVNET "  tvg-name = " TVNET "  tvg-logo = " http://logo.multicms.info/tvlogo/tvnet.png "  group-title = " TR-HABER " , TVNET 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TVNET "  tvg-name = " TVNET "  tvg-logo = " http://logo.multicms.info/tvlogo/tvnet.png "  group-title="HABER" , TVNET 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232353
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " BLOOMBERG "  tvg-name = " BLOOMBERGHT "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png "  group-title = " TR-HABER " , BLOOMBERGHT 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " BLOOMBERG "  tvg-name = " BLOOMBERGHT "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png "  group-title="HABER" , BLOOMBERGHT 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50842
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " BLOOMBERG "  tvg-name = " BLOOMBERGHT "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png "  group-title = " TR-HABER " , BLOOMBERGHT 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " BLOOMBERG "  tvg-name = " BLOOMBERGHT "  tvg-logo = " https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png "  group-title="HABER" , BLOOMBERGHT 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/137
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TGRT HABER "  tvg-name = " TGRT HABER "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png "  group-title = " TR-HABER " , TGRT HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TGRT HABER "  tvg-name = " TGRT HABER "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png "  group-title="HABER" , TGRT HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/232352
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TGRT HABER "  tvg-name = " TGRT HABER "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png "  group-title = " TR-HABER " , TGRT HABER 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TGRT HABER "  tvg-name = " TGRT HABER "  tvg-logo = " https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png "  group-title="HABER" , TGRT HABER 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/222870
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TELE 1 "  tvg-name = " TELE 1 "  tvg-logo = " http://logo.multicms.info/tvlogo/tele1.png "  group-title = " TR-HABER " , TELE 1 
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TELE 1 "  tvg-name = " TELE 1 "  tvg-logo = " http://logo.multicms.info/tvlogo/tele1.png "  group-title="HABER" , TELE 1 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/121
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " ULUSAL KANAL "  tvg-name = " ULUSAL KANAL "  tvg-logo = " http://logo.multicms.info/tvlogo/ulusal.png "  group-title = " TR-HABER " , ULUSAL KANAL
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " ULUSAL KANAL "  tvg-name = " ULUSAL KANAL "  tvg-logo = " http://logo.multicms.info/tvlogo/ulusal.png "  group-title="HABER" , ULUSAL KANAL
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/6
 #EXTINF:-1  user-agent = " Firefox "  tvg-id = " A Para "  tvg-name = " APARA "  tvg-logo = " http://logo.multicms.info/logoslar/apara.jpg "  group-title = " TR-ULUSAL " , APARA 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50841
@@ -752,22 +740,12 @@ http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/167
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/168
 #EXTINF:-1 tvg-logo = " ", MOVIESMARTCLASSIC
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/216
-#EXTINF:-1 tvg-logo = " ", BEINSERIES3
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/219
-#EXTINF:-1 tvg-logo = " ", BEINSERIES2
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/220
-#EXTINF:-1 tvg-logo = " ", BEINSERIES1
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/221
-#EXTINF:-1 tvg-logo = " ", BEINSERIES
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/223
 #EXTINF:-1 tvg-logo = " ", BEINMOVIESTURK
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/224
 #EXTINF:-1 tvg-logo = " ", BEINMOVIESTURKSTAR
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/225
 #EXTINF:-1 tvg-logo = " ", BEINMOVIESPRIMIERE
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/253
-#EXTINF:-1 tvg-logo = " ", BBC EARTH
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/258
 #EXTINF:-1 tvg-logo = " ", BEINIZ
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/270
 #EXTINF:-1 tvg-logo = " ", BEINGURME
@@ -778,6 +756,8 @@ http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/274
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/282
 #EXTINF:-1 tvg-logo = " ", NATIONAL GEOGRAPHIC
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/6925
+#EXTINF:-1 tvg-logo = " ", BBC EARTH
+http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/258
 #EXTINF:-1 tvg-logo = " ", YABAN TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/15018
 #EXTINF:-1 tvg-logo = " ", TRT MÜZİK 
