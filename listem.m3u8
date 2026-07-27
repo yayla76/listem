@@ -9,8 +9,6 @@ http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/150
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100  
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
-#EXTINF:-1  user-agent = " Firefox "  tvg-id = " TV 100 "  tvg-name = " TV 100 "  tvg-logo = " http://logo.multicms.info/tvlogo/tv100.png "  group-title="HABER" ,TV 100 
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50939
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="HABER",HABER TÜRK
@@ -106,11 +104,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-l
 https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8?ads.wurl_channel=1655&ads.wurl_name=BBCNews&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDE5MjUxMjY1NX0
 #EXTINF:-1,NewsWorld
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8?ads_amagi_channel_id=867&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5635&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=76db1986-0fb9-46cc-a1f8-c097c7806cf6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1,Euronews LIVE
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Euronews Logo 2025.svg",Euronews LIVE
 https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503-restreaming/bitok/eyJzdGlkIjoiZGVlMzIyNzgtMTc5Yi00MmE2LTllMmQtNTllZDg3YTNmNjg2IiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/live/eds/euronews-en/26031/euronews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6503&ads.rtv_channel_name=euronews-live-eng_uk&ads.rtv_content_id=6503&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=dee32278-179b-42a6-9e2d-59ed87a3f686&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6503&publishing_platform_id=5&tenant_identifier=rtv
 #EXTINF:-1,Africanews
 https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNjdkNzUyNzQtNzI0Ni00MjI2LWI4MDUtZWQ0YTgzZTAwOGU4IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6576&ads.rtv_channel_name=africanews-eng_uk&ads.rtv_content_id=6576&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=67d75274-7246-4226-b805-ed4a83e008e8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6576&publishing_platform_id=5&tenant_identifier=rtv
-#EXTINF:-1,BBC Earth (US)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png",BBC Earth (US)
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1,LoveNature
 https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
@@ -118,7 +116,7 @@ https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
 https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 channel-id="US3800007CR" tvg-id="US3800007CR" tvg-chno="3533" tvg-name="WildEarth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20250121T101229SQUARE.png" group-title="Belgesel",WildEarth
 https://jmp2.uk/stvp-US3800007CR
-#EXTINF:-1,Nature Time
+#EXTINF:-1 tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",Nature Time
 https://amg01576-amg01576c3-rakuten-gb-10666.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01576-blueantmediacanadafast-naturetimeemeaenglish-rakutengb/playlist.m3u8?ads_amagi_channel_id=1087&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=Belgesel%2Canimals%2Chistory%2Coutdoors&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=7&ads_rtv_content_id=7395&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=8a249612-57d4-4f61-9fd8-6f12efee3903&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,Terra Mater WILD
 https://amg01775-amg01775c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c1-amgplt0165/playlist.m3u8?ads_amagi_channel_id=1105&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=Belgesel%2Canimals%2Coutdoors&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=7&ads_rtv_content_id=7706&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=f9cb4d17-5327-4323-8f09-0124760e612c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -430,7 +428,7 @@ https://5350c8d38aec4989b3b9ec5d76dbe624.mediatailor.us-east-1.amazonaws.com/v1/
 https://amg02051-soulpublishing-amg02051c17-xiaomi-in-399.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/", Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/", PBS Kids Alaska
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/PBS Kids logo.svg", PBS Kids Alaska
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst_3.m3u8
 #EXTINF:-1,Kids TV (US)
 https://jansonmedia-kidstv-1-us.lg.wurl.tv/playlist.m3u8
@@ -688,13 +686,13 @@ http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/50841
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/19291
 #EXTINF:-1 tvg-logo = " ", SPORT TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/59
-#EXTINF:-1 tvg-logo = " ", A SPOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/60
 #EXTINF:-1 tvg-logo = " ", TRT SPOR
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/62
-#EXTINF:-1 tvg-logo = " ", EURO SPORT2
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport Logo 2015.svg", EURO SPORT2
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/64
-#EXTINF:-1 tvg-logo = " ", EURO SPORT1
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Eurosport 1 Logo 2015.svg", EURO SPORT1
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/65 
 #EXTINF:-1 tvg-logo = " ", TSPORT3
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/73
@@ -702,11 +700,11 @@ http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/73
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/74
 #EXTINF:-1 tvg-logo = " ", TSPORT1
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/75
-#EXTINF:-1 tvg-logo = " ", BEINSPORTSHABER  
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/BeIN Sports logo.svg", BEINSPORTSHABER  
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/76
-#EXTINF:-1 tvg-logo = " ", BEINSPORTS 2
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/BeIN Sports logo.svg", BEINSPORTS 2
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/78
-#EXTINF:-1 tvg-logo = " ", BEINSPORTS 1
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/BeIN Sports logo.svg", BEINSPORTS 1
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/79
 #EXTINF:-1 tvg-logo = " ", AKIT TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/117
@@ -750,17 +748,17 @@ http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/253
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/270
 #EXTINF:-1 tvg-logo = " ", BEINGURME
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/271
-#EXTINF:-1 tvg-logo = " ", DMAX
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/DMAX.svg", DMAX
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/274
-#EXTINF:-1 tvg-logo = " ", NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png", NATIONAL GEOGRAPHIC WILD
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/282
-#EXTINF:-1 tvg-logo = " ", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png", NATIONAL GEOGRAPHIC
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/6925
-#EXTINF:-1 tvg-logo = " ", BBC EARTH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png", BBC EARTH
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/258
 #EXTINF:-1 tvg-logo = " ", YABAN TV
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/15018
-#EXTINF:-1 tvg-logo = " ", TRT MÜZİK 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png", TRT MÜZİK 
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/286
 #EXTINF:-1 tvg-logo = " ", UNIVERSAL
 http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/19988 
