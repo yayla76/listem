@@ -14,7 +14,7 @@ https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1  tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/sozcu_tv_KPX.png" group-title="HABER",Sözcü TV 
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/144
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=540949&extension=ts&play_token=JOFxL2wUlR
 #EXTINF:-1 tvg-id="AHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="HABER",A Haber 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
@@ -28,6 +28,8 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png" group-title="HABER",MK TV 
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 tvg-logo = " ",ULUSAL KANAL
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197178&extension=ts&play_token=8qxzVqk0m2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK 
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="HABER",FLASH HABER 
@@ -38,8 +40,8 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg" group-title="HABER",TÜRK HABER 
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo = " ",AKIT TV
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/117
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Akit_TV.png" group-title=" YEREL", AKIT TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197233&extension=ts&play_token=5x13V8PrEV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png",REHBER TV 
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="",BLOOMBERG HT  
@@ -66,6 +68,14 @@ https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GZT.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" group-title="Belgesel",GZT 
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png", VATAN TV 
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197349&extension=ts&play_token=M2Apl16HZ9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/MÜZIK/TIVIBU TURKCE POP.png" group-title=" MÜZIK", TIVIBU DİNİ MUSİKİ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=724306&extension=ts&play_token=2uGeqfhTva
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dosttv.png" group-title=" DINI", DOST TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=210465&extension=ts&play_token=Wl1AzaWqzv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_Belgesel_logo.png" group-title=" BELGESEL", TGRT BELGESEL
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197424&extension=ts&play_token=MaPd3gxY7X
 #EXTINF:-1 tvg-logo="https://www.google.com/",VAV TV 
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/3a4876/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683530744651.png" ,Asr-ı Saadet TV
@@ -80,8 +90,6 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",İKRA TV
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jwgqtSB/dosttv.png",DOST TV
-https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png",SEMERKAND
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png",SEMERKAND WAY 
@@ -91,23 +99,29 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 ,SercemTV
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo = " ",YABAN TV
-http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/15018
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
 #EXTINF:-1,ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="0.KIL-SPOR KARIŞIK",Fit Yaşa TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist.m3u8
 #EXTINF:-1,LUYS TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:0,TRT BELGESEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275550&extension=ts&play_token=yPElqMB2sf
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/xLsaQyz.png" group-title="Belgesel",National GeographicWild
-http://umperisn.mywire.org/index.php?id=594678&token=DeaTHLesS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200363&extension=ts&play_token=Wfutr37cHp
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.tr" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/GSxkmki.jpeg" group-title="Belgesel",National Geographic
-http://umperisn.mywire.org/index.php?id=594676&token=DeaTHLesS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:-1 tvg-id="BBC.EARTH.tr" tvg-name="BBC EARTH" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="Belgesel",BBC EARTH 
 http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Love_Nature_TV.png" group-title="Belgesel", LOVE NATURE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj
 #EXTINF:-1 tvg-id="DISCOVERY.CHANNEL.tr" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838478.png" group-title="Belgesel",DISCOVERY CHANNEL 
-http://umperisn.mywire.org/index.php?id=594674&token=DeaTHLesS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197427&extension=ts&play_token=rXjLa9bDy7
 #EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
-http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=587194&extension=ts&play_token=e57YMrO07i
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/715px-Viasat_Explore.png" group-title="Belgesel", VIASAT EXPLORE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TÜRKMENELİ TV 
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",KK TV
@@ -228,10 +242,16 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8 
+#EXTINF:-1 tvg-logo="",EKOL TV 
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1257377&extension=ts&play_token=DA2nexCTPP
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1 
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fx9aQY5CVpcg93aND8iSspo1Lr9gC0zmyTRwIUyZcf61PJIe3s0WnKnraHQKpNmdr397aZwStw=s160-c-k-c0x00ffffff-no-rj" group-title="Sinema",TABİİTV TR
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/meltem.png" group-title=" DINI", MELTEM TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=210463&extension=ts&play_token=H63cTrLCxx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tv5.png" group-title=" DINI", TV5
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=210462&extension=ts&play_token=KSZIvDyc2v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR 
 https://ciner-live.ercdn.net/htspor/htspor.m3u8  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR 
@@ -242,8 +262,6 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 http://tjktv.ercdn.net/tjktv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV 
-http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT 
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGnRLnLM/yenicag.png",YENİ ÇAĞ TV
