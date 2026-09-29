@@ -101,7 +101,7 @@ http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439
 #EXTINF:-1,ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT 4K.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&s" group-title="ULUSAL",TRT 4K
-http://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u  
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe 
 #EXTINF:0,TRT BELGESEL
 http://176.65.153.12:6001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_Belgesel_logo.png" group-title=" BELGESEL", TGRT BELGESEL
