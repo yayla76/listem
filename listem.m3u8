@@ -101,7 +101,7 @@ http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439
 #EXTINF:-1,ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8 
 #EXTINF:-1 tvg-id="TRT 4K.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&s" group-title="ULUSAL",TRT 4K
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe 
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe
 #EXTINF:0,TRT BELGESEL
 http://176.65.153.12:6001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_Belgesel_logo.png" group-title=" BELGESEL", TGRT BELGESEL
@@ -126,6 +126,8 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&exte
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Brt 1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" group-title="KIBRIS KANALLARI",Brt 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/kibris-brt2.jpg" channel-name="Kibris BRT2" group-title="KIBRIS KANALLARI",Kibris BRT2
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch920
 #EXTINF:-1 tvg-logo="https://kibristv.com/foto/ktv.png" group-title="KIBRIS KANALLARI",KIBRIS TV
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://kibrisgenctvcom.teimg.com/kibrisgenctv-com/uploads/2023/11/logo-190x90-01.png" group-title="KIBRIS KANALLARI",KIBRIS GENÇ TV
@@ -140,6 +142,22 @@ https://edge.kuzeykibrissmart.tv/adatv/bant1/chunks.m3u8
 https://xezerxeber.az/stream/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://atv.az/assets/images/logo_white.png" group-title="AZERBAYCAN KANALLARI",AZAD AZERBAYCAN TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/arb-tv.gif" channel-name="ARB TV" group-title="AZERBAYCAN KANALLARI",ARB TV
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch905
+#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/ictimai-tv.gif" channel-name="Ictimai TV" group-title="AZERBAYCAN KANALLARI",Ictimai TV
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch906
+#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/medeniyyet-tv.gif" channel-name="Medeniyyet TV" group-title="AZERBAYCAN KANALLARI",Medeniyyet TV
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch907
+#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/real-tv.png" channel-name="Real TV" group-title="AZERBAYCAN KANALLARI",Real TV
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch908
+#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/zexer-xeber.png" channel-name="Zexer Xeber" group-title="AZERBAYCAN KANALLARI",Zexer Xeber
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch909
+#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/kepez-tv.png" channel-name="Kepez TV" group-title="AZERBAYCAN KANALLARI",Kepez TV
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch911
+#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/space-tv.jpg" channel-name="Space TV" group-title="AZERBAYCAN KANALLARI",Space TV
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch912
+#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/start-tv.png" channel-name="Start TV" group-title="AZERBAYCAN KANALLARI",Start TV
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch913
 #EXTINF:-1 tvg-logo="https://www.google.com/",KANALAVRUPA
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 ,SercemTV
@@ -362,6 +380,10 @@ https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLYLWpNZ/38683545-ico.png" group-title="MÜZİK KANALLARI",YANSIMA MÜZİK TV
 http://162.212.179.32/akamaissh101/ssh101/ymmusictv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZWRkPB9/37708269-ico.png" group-title="MÜZİK KANALLARI",SU TV
+https://live.artidijitalmedya.com/artidijital_sutv/sutv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzzJd0Qr/38904549-ico.png9UGgFInzE4KHqOcjJQHO2EWKKhnBlvuTaHAqn1nhhVoZF7MJYaxckogLRmhGotCpmm2uV0I1WeoP-xEILtOrcF12Kg0AoHQ1xY1ua_eODHWt77RCUQPBNgVQ&h=AUBp3I6aimqrbJmDE54f07EAcVCg54YluGN3wdUTEn9UGgFInzE4KHqOcjJQHO2EWKKhnBlvuTaHAqn1nhhVoZF7MJYaxckogLRmhGotCpmm2uV0I1WeoP-xEILtOrcF12Kg0AoHQ1xY1ua_eODHWt77RCUQPBNgVQ&h=AUBp3I6aimqrbJmDE54f07EAcVCg54YluGN3wdUTEn9UGgFInzE4KHqOcjJQHO2EWKKhnBlvuTaHAqn1nhhVoZF7MJYaxckogLRmhGotCpmm2uV0I1WeoP-xEILtOrcF12Kg0AoHQ1xY1ua_eODHWt77RCUQPBNgVQ" group-title="MÜZİK KANALLARI",RİTİM TV
+https://ritimtv.ozelip.com:3632/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png", VATAN TV 
