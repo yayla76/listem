@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER 
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png"  group-title="HABER" ,CNN TURK 
-http://46.32.176.50/cnnturk/playlist.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100  
@@ -38,9 +38,9 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg" group-title="HABER",TÜRK HABER 
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" group-title=" HABER", KRT 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" group-title=" HABER",KRT 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197278&extension=ts&play_token=1SbGpVA8ty
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Akit_TV.png" group-title=" YEREL", AKIT TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Akit_TV.png" group-title=" YEREL",AKIT TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197233&extension=ts&play_token=5x13V8PrEV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png",REHBER TV 
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
@@ -50,13 +50,11 @@ https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK 
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 tvg-name="TELENEWS" group-title="HABER",TELENEWS
-https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" group-title="HABER",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/HABER/A NEWS .png" group-title=" HABER", A NEWS 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/HABER/A NEWS .png" group-title=" HABER",A NEWS 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197271&extension=ts&play_token=Nx8VX4UaJj
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgASYpz7V6NIKM1OggKywL2HE_AIrOlbfbfQ4w9Ikd4Ksn_hrflP51xX8wZwExwJDKd4AUZRXpc4uVGykKTzotHaGdgBfFKGzdL8tS8oTDP8pV0EAcUM6gL1ck_jaoe5v1wSVH9xRKGQKDUGwjMrBhSA9saYSFId0M5gfAsXqchr-IFs9I/s1600/aj%20eng.webp" group-title="HABER",ALJAZEERA EN
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
@@ -71,8 +69,10 @@ https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" tvg-name="CNA Originals " group-title="Belgesel,CNA Originals 
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GZT.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" group-title="Belgesel",GZT 
-https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/MÜZIK/TIVIBU TURKCE POP.png" group-title=" MÜZIK", TIVIBU DİNİ MUSİKİ
+https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/chunklist_w733566454.m3u8
+#EXTINF:-1,MYZEN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/MÜZIK/TIVIBU TURKCE POP.png" group-title=" MÜZIK",TIVIBU DİNİ MUSİKİ
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=724306&extension=ts&play_token=2uGeqfhTva
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dosttv.png" group-title=" DINI", DOST TV
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=210465&extension=ts&play_token=Wl1AzaWqzv
@@ -104,24 +104,24 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe
 #EXTINF:0,TRT BELGESEL
 http://176.65.153.12:6001/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_Belgesel_logo.png" group-title=" BELGESEL", TGRT BELGESEL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_Belgesel_logo.png" group-title=" BELGESEL",TGRT BELGESEL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197424&extension=ts&play_token=MaPd3gxY7X
-#EXTINF:-1,Habitat TV
-http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6864/index.m3u8
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/xLsaQyz.png" group-title="Belgesel",National GeographicWild
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.tr" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/GSxkmki.jpeg" group-title="Belgesel",National Geographic
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:-1 tvg-id="BBC.EARTH.tr" tvg-name="BBC EARTH" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="Belgesel",BBC EARTH 
 http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Love_Nature_TV.png" group-title="Belgesel", LOVE NATURE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Love_Nature_TV.png" group-title="Belgesel",LOVE NATURE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj
 #EXTINF:-1 tvg-id="DISCOVERY.CHANNEL.tr" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838478.png" group-title="Belgesel",DISCOVERY CHANNEL 
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197427&extension=ts&play_token=rXjLa9bDy7
 #EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=587194&extension=ts&play_token=e57YMrO07i
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/715px-Viasat_Explore.png" group-title="Belgesel", VIASAT EXPLORE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/715px-Viasat_Explore.png" group-title="Belgesel",VIASAT EXPLORE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TLC.png" group-title="Belgesel",TLC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197429&extension=ts&play_token=K6dnYNtVcu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TÜRKMENELİ TV 
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Brt 1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" group-title="KIBRIS KANALLARI",Brt 1
@@ -162,9 +162,7 @@ https://square-leaf-d613.panorea1000.workers.dev/?xml=ch913
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 ,SercemTV
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cem_TV_logo.png" group-title=" YEREL", CEM TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197223&extension=ts&play_token=fqcWcqBS9Q
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg",CAN TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cem_TV_logo.png" group-title=" YEREL",CEM TV
 http://canbroadcast.com:7000/canlican/tv.m3u8 
 #EXTINF:-1,LUYS TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
@@ -172,8 +170,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91
 https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/",canalmotor
 https://digicom.hls.iptvdc.com/canalmotor/tracks-v2a1/mono.m3u8
-#EXTINF:-1,MYZEN
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Belgesel",National Geographic HD East  
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Belgesel",National Geographic Wild HD East  
@@ -270,7 +266,7 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8
 http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pXncfpb/tv422.png",TV 4 
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tv5.png" group-title=" DINI", TV5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tv5.png" group-title=" DINI",TV5
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=210462&extension=ts&play_token=KSZIvDyc2v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png",TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -386,7 +382,7 @@ https://live.artidijitalmedya.com/artidijital_sutv/sutv/chunks.m3u8
 https://ritimtv.ozelip.com:3632/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png", VATAN TV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png",VAN TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197349&extension=ts&play_token=M2Apl16HZ9
 #EXTINF:0,DERIN TV
 https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
@@ -548,7 +544,7 @@ https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png",SAT 7 TÜRK
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P", SOMINEATES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="4K UHD 3840P",SOMINEATES
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="7/24 Yayın",relax 1
 http://iptv.prosto.tv:7000/ch340/video.m3u8
@@ -740,6 +736,10 @@ http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/45
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/31
 #EXTINF:0 tvg-agent="Firefox" tvg-id="TV8" tvg-name="TR: TV 8 HD" tvg-logo="http://logo.multicms.info/logoslar/tv8.png" group-title="TR-ULUSAL",TR: TV 8 HD
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/30
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://logo.multicms.info/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/28
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 HD" tvg-logo="http://logo.multicms.info/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/27
 #EXTINF:0 tvg-agent="Firefox" tvg-id="Show TV" tvg-name="TR: SHOW TV FHD" tvg-logo="http://logo.multicms.info/logoslar/showhd.png" group-title="TR-ULUSAL",TR: SHOW TV FHD
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/42
 #EXTINF:0 tvg-agent="Firefox" tvg-id="Show TV" tvg-name="TR: SHOW TV HD" tvg-logo="http://logo.multicms.info/logoslar/showhd.png" group-title="TR-ULUSAL",TR: SHOW TV HD
@@ -850,6 +850,28 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471701&e
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471702&extension=ts&play_token=cbcl7gAM4x
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI 6.png" group-title=" SINEMA PLATFORM", TIVI 6
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471703&extension=ts&play_token=d61TdntQCe
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BI TV" group-title="TR-SPOR",TR: BI TV
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/314376
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TAY TV" tvg-name="TR: TJK TV" tvg-logo="http://logo.multicms.info/logoslar/tjkhd.png" group-title="TR-SPOR",TR: TJK TV
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/54
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT SPOR" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://logo.multicms.info/tvlogo/trtsporhd.png" group-title="TR-SPOR",TR: TRT SPOR 
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/63
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Spor Yıldız" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="http://logo.multicms.info/tvlogo/TRT_Spor_Yildiz_Logo.png" group-title="TR-SPOR",TR: TRT SPOR YILDIZ
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/97008
+#EXTINF:0 tvg-agent="Firefox" tvg-id="A Spor" tvg-name="TR: ASPOR FHD" tvg-logo="http://logo.multicms.info/tvlogo/asporhd.png" group-title="TR-SPOR",TR: ASPOR 
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/61
+#EXTINF:0 tvg-agent="Firefox" tvg-id="HT SPOR" tvg-name="TR: HT SPOR" tvg-logo="https://logo.multicms.info/TVlogolar/htspor.jpg" group-title="TR-SPOR",TR: HT SPOR
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/246337
+#EXTINF:0 tvg-agent="Firefox" tvg-id="tabii Spor" tvg-name="TR: Tabii Spor" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/256704
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: SIFIR TV" tvg-logo="https://logo.multicms.info/tvlogo/sifirtv.jpg" group-title="TR-SPOR",TR: SIFIR TV
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/316094
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NBA TV" tvg-name="TR: NBA TV HD" tvg-logo="http://logo.multicms.info/logoslar/nba.png" group-title="TR-SPOR",TR: NBA TV 
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/67
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 1  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 1  
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/233930
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EKOL SPORTS" tvg-logo="https://canlitv.com/kanal/logo/13433.jpg" group-title="TR-SPOR",TR: EKOL SPORTS
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/314140
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 1" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 1
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/61351
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 2" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 2
@@ -860,180 +882,54 @@ http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/106027
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232435
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 5 Formula 1" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 5 Formula 1
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/247370
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 6 UFC" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 6 UFC
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/272922
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 SD/MOBIL" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 SD/MOBIL
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/84
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/89
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 FHD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/77238
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS" tvg-name="TR: Bein Sports 1 (Yuksek Kalite)  " tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: Bein Sports 1 (Yuksek Kalite)  
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS" tvg-name="TR: Bein Sports 1 (Yuksek Kalite)  " tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: Bein Sports 1 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/237081
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 4K  " tvg-logo="https://logo.multicms.info/logoslar/Bein-4K.jpg" group-title="TR-SPOR",TR: beIN SPORTS 4K  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/269805
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: PLUS 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 1 FHD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: PLUS 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 1 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337958
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: PLUS 2 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 2 HD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: PLUS 2 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 2 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337959
-#EXTINF:0 tvg-agent="Firefox" tvg-name="TR: PLUS 3 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 3 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/338772
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Bein Xtra" tvg-logo="https://logo.multicms.info/tvlogo/BeinsportsXtra.jpg" group-title="TR-SPOR",TR: Bein Xtra
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/256065
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 2 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: BEIN SPORTS 2 SD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/116675
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: BEIN SPORTS 2 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/31408
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: beIN SPORTS 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: beIN SPORTS 2 FHD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/87
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: Bein Sports 2 (Yuksek Kalite)  " tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: Bein Sports 2 (Yuksek Kalite)  
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: Bein Sports 2 (Yuksek Kalite)  " tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: Bein Sports 2 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/223132
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 3 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="TR-SPOR",TR: BEIN SPORTS 3 SD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/116676
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="TR-SPOR",TR: BEIN SPORTS 3 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/31409
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="TR-SPOR",TR: beIN SPORTS 3 FHD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/31407
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: Bein Sports 3 (Yuksek Kalite)  " tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="TR-SPOR",TR: Bein Sports 3 (Yuksek Kalite)  
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: Bein Sports 3 (Yuksek Kalite)  " tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="TR-SPOR",TR: Bein Sports 3
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/223133
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 4 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: BEIN SPORTS 4 SD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/116677
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 4" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: beIN SPORTS 4 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/81
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 4" tvg-name="TR: Bein Sports 4 (Yuksek Kalite)  " tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: Bein Sports 4 (Yuksek Kalite)  
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 4" tvg-name="TR: Bein Sports 4 (Yuksek Kalite)  " tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: Bein Sports 4  
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/223134
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 5" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 5 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/172690
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 5" tvg-name="TR: Bein Sports 5 (Yuksek Kalite)  " tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: Bein Sports 5 (Yuksek Kalite)  
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 5" tvg-name="TR: Bein Sports 5 (Yuksek Kalite)  " tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: Bein Sports 5 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/223135
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 1" tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-1-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 1 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/79
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 1" tvg-name="TR: beIN SPORTS MAX 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-1-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 1 FHD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 1" tvg-name="TR: beIN SPORTS MAX 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-1-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 1 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/80
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 2" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-2-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 2 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/77
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 2" tvg-name="TR: beIN SPORTS MAX 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-2-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 2 FHD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 2" tvg-name="TR: beIN SPORTS MAX 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-2-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 2 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/78
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS HABER" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-haber-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS HABER HD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS HABER" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-haber-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS HABER 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/76
-#EXTINF:0 tvg-agent="Firefox" tvg-id="A Spor" tvg-name="TR: ASPOR FHD" tvg-logo="http://logo.multicms.info/tvlogo/asporhd.png" group-title="TR-SPOR",TR: ASPOR FHD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/61
-#EXTINF:0 tvg-agent="Firefox" tvg-id="A Spor" tvg-name="TR: ASPOR HD" tvg-logo="http://logo.multicms.info/tvlogo/asporhd.png" group-title="TR-SPOR",TR: ASPOR HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/60
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EKOL SPORTS" tvg-logo="https://canlitv.com/kanal/logo/13433.jpg" group-title="TR-SPOR",TR: EKOL SPORTS
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/314140
-#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport" tvg-name="TR: S Sport HD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/32058
-#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport" tvg-name="TR: S Sport FHD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport FHD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport" tvg-name="TR: S Sport FHD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/68
-#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport 2" tvg-name="TR: S Sport 2 HD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport 2 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/15169
-#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport 2" tvg-name="TR: S Sport 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport 2 FHD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport 2" tvg-name="TR: S Sport 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport 2 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232183
 #EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor" tvg-name="TR: TIVIBUSPOR" tvg-logo="http://logo.multicms.info/logoslar/tivibu.png" group-title="TR-SPOR",TR: TIVIBUSPOR
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/216195
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 1" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibu.png" group-title="TR-SPOR",TR: TIVIBUSPOR 1 HD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 1" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibu.png" group-title="TR-SPOR",TR: TIVIBUSPOR 1 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/75
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 2" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibuspor2hd.png" group-title="TR-SPOR",TR: TIVIBUSPOR 2 HD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 2" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibuspor2hd.png" group-title="TR-SPOR",TR: TIVIBUSPOR 2 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/74
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 3" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibuspor3hd.png" group-title="TR-SPOR",TR: TIVIBUSPOR 3 HD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 3" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibuspor3hd.png" group-title="TR-SPOR",TR: TIVIBUSPOR 3
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/73
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 4" tvg-name="TR: TIVIBUSPOR 4 HD" tvg-logo="http://logo.multicms.info/tvlogo/tivibuspor4hd.png" group-title="TR-SPOR",TR: TIVIBUSPOR 4 HD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 4" tvg-name="TR: TIVIBUSPOR 4 HD" tvg-logo="http://logo.multicms.info/tvlogo/tivibuspor4hd.png" group-title="TR-SPOR",TR: TIVIBUSPOR 4 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/96999
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Spor Smart" tvg-name="TR: SPORSMART HD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor.png" group-title="TR-SPOR",TR: SPORSMART HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/231858
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Spor Smart" tvg-name="TR: SPORSMART FHD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor.png" group-title="TR-SPOR",TR: SPORSMART FHD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Spor Smart" tvg-name="TR: SPORSMART FHD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor.png" group-title="TR-SPOR",TR: SPORSMART 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/60118
-#EXTINF:0 tvg-agent="Firefox" tvg-id="SPOR SMART 2" tvg-name="TR: SPORSMART 2 FHD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor2.png" group-title="TR-SPOR",TR: SPORSMART 2 FHD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="SPOR SMART 2" tvg-name="TR: SPORSMART 2 FHD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor2.png" group-title="TR-SPOR",TR: SPORSMART 2 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/57772
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Eurosport 1" tvg-name="TR: Eurosport 1 HD" tvg-logo="http://logo.multicms.info/tvlogo/eurosport1hd.png" group-title="TR-SPOR",TR: Eurosport 1 HD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Eurosport 1" tvg-name="TR: Eurosport 1 HD" tvg-logo="http://logo.multicms.info/tvlogo/eurosport1hd.png" group-title="TR-SPOR",TR: Eurosport 1 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/65
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Eurosport 2" tvg-name="TR: Eurosport 2 HD" tvg-logo="http://logo.multicms.info/tvlogo/eurosport2hd.png" group-title="TR-SPOR",TR: Eurosport 2 HD
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Eurosport 2" tvg-name="TR: Eurosport 2 HD" tvg-logo="http://logo.multicms.info/tvlogo/eurosport2hd.png" group-title="TR-SPOR",TR: Eurosport 2 
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/64
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT SPOR" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://logo.multicms.info/tvlogo/trtsporhd.png" group-title="TR-SPOR",TR: TRT SPOR FHD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/63
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT SPOR" tvg-name="TR: TRT SPOR HD" tvg-logo="http://logo.multicms.info/tvlogo/trtsporhd.png" group-title="TR-SPOR",TR: TRT SPOR HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/62
-#EXTINF:0 tvg-agent="Firefox" tvg-id="tabii Spor" tvg-name="TR: Tabii Spor" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/256704
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 1" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 1
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/255108
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 2" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 2
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/255107
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 3" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 3
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/255106
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 4" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 4
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/255105
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 5" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 5
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/255104
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 6" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 6
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/255103
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 7" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 7
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/333399
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 8" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 8
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/333398
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 9" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 9
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/333397
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 10" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 10
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/333396
-#EXTINF:0 tvg-agent="Firefox" tvg-id="HT SPOR" tvg-name="TR: HT SPOR" tvg-logo="https://logo.multicms.info/TVlogolar/htspor.jpg" group-title="TR-SPOR",TR: HT SPOR
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/246337
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://logo.multicms.info/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 FHD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/28
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 HD" tvg-logo="http://logo.multicms.info/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/27
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Spor Yıldız" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="http://logo.multicms.info/tvlogo/TRT_Spor_Yildiz_Logo.png" group-title="TR-SPOR",TR: TRT SPOR YILDIZ
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/97008
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: SIFIR TV" tvg-logo="https://logo.multicms.info/tvlogo/sifirtv.jpg" group-title="TR-SPOR",TR: SIFIR TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/316094
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NBA TV" tvg-name="TR: NBA TV HD" tvg-logo="http://logo.multicms.info/logoslar/nba.png" group-title="TR-SPOR",TR: NBA TV HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/67
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TAY TV" tvg-name="TR: TJK TV" tvg-logo="http://logo.multicms.info/logoslar/tjkhd.png" group-title="TR-SPOR",TR: TJK TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/54
-#EXTINF:0 tvg-agent="Firefox" tvg-id="SPORTS TV" tvg-name="TR: SPORTS TV HD" tvg-logo="http://logo.multicms.info/logoslar/sportstv.png" group-title="TR-SPOR",TR: SPORTS TV HD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/59
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 1 SD  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 1 SD  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/98582
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 1 HD  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 1 HD  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/97466
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 1 FHD  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 1 FHD  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/96896
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 2  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 2  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/96972
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 3  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 3  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/96973
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 4  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 4  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/256328
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 5  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 5  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/256329
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 6  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 6  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/256330
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 7  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 7  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/264314
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 8  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 8  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/264315
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 1  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 1  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/233930
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 2  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 2  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/233931
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 3  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 3  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/233932
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 4  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 4  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337176
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 5  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 5  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337175
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 6  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 6  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337174
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 7  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 7  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337173
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 8  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 8  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337172
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 9  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 9  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337171
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 10  " tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 10  
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337170
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BI TV" group-title="TR-SPOR",TR: BI TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/314376
+
+
 
  
 
