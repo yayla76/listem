@@ -269,7 +269,7 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="HABER",BRÜKSEL TÜRK 
 https://live.euromediacenter.com/brukselturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="HABER" ,BALKAN TÜRK
-https://live.euromediacenter.com/balkanturk/index.m3u8
+https://live.euromediacenter.com/balkanturktv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHC6cd9Y/38057190-ico.png" group-title="AVRUPA KANALLARI",MK TÜRK
 https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/_HgfV.png" group-title="YEREL KANALLAR",TEK RUMELİ TV
