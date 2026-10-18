@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER 
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png"  group-title="HABER" ,CNN TURK 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792360871/ei/R-3UaozgFbXO1PIP74e-4Q0/ip/188.68.234.53/id/Izct6NspHXg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-x2pm-f5fs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AWzQHwpzeZ7Evc2qvQLySj2gSC0bTkOhaIUfIClmVXiiN7Lg4wvcpAU1-fziQlu2farjhtGpVu_rucXE/spc/mpRQ_1ullD5Yux5H4sjISFRGRfGJcmbdzCxVuuIcEQMUCVANwwwtTtglAUNjcFkb/vprv/1/reg/0/playlist_type/DVR/met/1792339271,/mh/mb/mm/44/mn/sn-x2pm-f5fs/ms/lva/mv/u/mvi/8/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1792338457/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAJ9bmWj2cfpmAb627aaWcVlVshAym1bJWglw4wzindRFAiEAtpnogvWnqpnH5HmoWnB_AzC2V1s4aMN24a8w8ynnn-Q%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYo7ulLvosi2GVeD8T2upe6RdTySdV89d3Mi-KmxvBjgCIQCBrTZ6Cy_uvR7g15nsbOkOYpMWKTWrbFa7puqNggG_IA%3D%3D/playlist/index.m3u8
+#EXTINF:-1  user-agent = " Firefox "  tvg-id = " CNN TÜRK "  tvg-name = " CNN TURK "  tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png"  group-title="HABER" ,CNN TURK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
@@ -30,8 +32,6 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-logo = " ",ULUSAL KANAL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197178&extension=ts&play_token=8qxzVqk0m2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/289hFJVn/logoooojpg-125025-202304081jpg-015714-20230417-removebg-preview.png" group-title="HABER KANALLARI",KOZA TV
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:08:47:02&stream=143753&extension=ts
 #EXTINF:-1 tvg-logo="https://worldturktv.radyotelekom.com.tr:3971/live/worldturktvstreamlive.m3u8" group-title="HABER KANALLARI",WORLD TÜRK
 https://worldturktv.radyotelekom.com.tr:3971/live/worldturktvstreamlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="HABER",FLASH HABER 
