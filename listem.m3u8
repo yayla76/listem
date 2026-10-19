@@ -88,6 +88,8 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/MÜZIK/TIVIBU TURKCE POP.png" group-title=" MÜZIK",TIVIBU DİNİ MUSİKİ
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=724306&extension=ts&play_token=2uGeqfhTva
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/MÜZIK/TIVIBU TURKCE POP.png" group-title=" MÜZIK",TIVIBU TURK SANAT MUZIK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=724308&extension=ts&play_token=hlCoaZ9iQ1
 #EXTINF:-1 tvg-id="GZT.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" group-title="Belgesel",GZT 
 https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/chunklist_w733566454.m3u8
 #EXTINF:-1,MYZEN
@@ -168,10 +170,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrL2khn/lalegul.png",LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8 
-#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Belgesel",National Geographic HD East  
-http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Belgesel",National Geographic Wild HD East  
-http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Belgesel",BBC Earth 
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1,LoveNature
